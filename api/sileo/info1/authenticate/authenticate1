@@ -1,1 +1,0 @@
-<script>alert('登录失败！您非会员，请先激活会员权限！');parent.location.href='https://apt.cydia.love/userjh.php?user=Sileo&UDID=00008020-000974912246002E'</script>
